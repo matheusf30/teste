@@ -4,6 +4,6 @@
 >
 > executar:
 >
-> ``
->sudo apt install 
-> ``
+> ```
+>node teste.js
+> ```
