@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<macroclasses version="0.3.5" macroclass_field="macroclass_id" class_field="class_id">
+	<macroclass id="1" name="oceano" color="#0000ff"/>
+	<macroclass id="2" name="duna" color="#fffdc4"/>
+	<macroclass id="3" name="area_urbana" color="#ff0000"/>
+	<macroclass id="4" name="vegetacao_arborea" color="#005500"/>
+	<macroclass id="5" name="lagoa_da_ibiraquera" color="#00aa7f"/>
+	<macroclass id="6" name="lagoa_da_garopaba" color="#6718f9"/>
+	<macroclass id="7" name="lagoa_do_macacu" color="#328b93"/>
+	<macroclass id="8" name="banhado" color="#32825b"/>
+	<macroclass id="9" name="sedimento_lagunar" color="#ea9c75"/>
+	<macroclass id="10" name="vegetaçao arbustiva" color="#aaff7f"/>
+</macroclasses>
